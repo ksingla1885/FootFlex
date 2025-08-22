@@ -1,0 +1,30 @@
+{
+  "user": "682b57eee66f8071a406a2ad",
+  "orderItems": [
+    {
+      "name": "Air Max",
+      "qty": 1,
+      "image": "/server/uploads\\images-1747671127236.png",
+      "price": 140,
+      "size": "10",
+      "color": "Red",
+      "product": "682b585a74586910886fe565",
+      "_id": "682b5925b1ce67c2ea95ff57"
+    }
+  ],
+  "shippingAddress": {
+    "address": "Chitkara University",
+    "city": "Rajpura",
+    "postalCode": "140401",
+    "country": "India"
+  },
+  "paymentMethod": "cash",
+  "totalPrice": 164,
+  "status": "Pending",
+  "isPaid": false,
+  "isDelivered": false,
+  "_id": "682b5925b1ce67c2ea95ff56",
+  "createdAt": "2025-05-19T16:15:33.592Z",
+  "updatedAt": "2025-05-19T16:15:33.592Z",
+  "__v": 0
+}

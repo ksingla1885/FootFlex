@@ -1,0 +1,10 @@
+{
+  "name": "admin",
+  "email": "admin@example.com",
+  "password": "$2a$10$/Vfy6S1t9v5ctMpzT/I9JuCj.Xev/ycqifvI7.JQ7r4Yy5PjbXs/G",
+  "isAdmin": true,
+  "_id": "68a807b82cbe0628a659be11",
+  "createdAt": "2025-08-22T06:01:28.552Z",
+  "updatedAt": "2025-08-22T06:01:28.552Z",
+  "__v": 0
+}

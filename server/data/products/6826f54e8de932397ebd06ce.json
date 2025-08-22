@@ -1,0 +1,32 @@
+{
+  "admin": "6826f312a099ef7e94d81ff4",
+  "name": "Air Max",
+  "images": [
+    "/server/uploads\\images-1747383626897.png"
+  ],
+  "brand": "nike",
+  "category": "Men",
+  "description": "Fly",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 117,
+  "sizes": [
+    {
+      "size": "8",
+      "countInStock": 99,
+      "_id": "6826f54e8de932397ebd06cf"
+    }
+  ],
+  "colors": [
+    {
+      "name": "Red ",
+      "hex": "#000000",
+      "_id": "6826f54e8de932397ebd06d0"
+    }
+  ],
+  "_id": "6826f54e8de932397ebd06ce",
+  "reviews": [],
+  "createdAt": "2025-05-16T08:20:30.037Z",
+  "updatedAt": "2025-05-16T08:20:30.037Z",
+  "__v": 0
+}

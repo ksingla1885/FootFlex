@@ -1,0 +1,30 @@
+{
+  "user": "68a807e04cf47cf68484530a",
+  "orderItems": [
+    {
+      "name": "Air Max",
+      "qty": 1,
+      "image": "/server/uploads\\images-1749370972105.png",
+      "price": 90,
+      "size": "8",
+      "color": "Black",
+      "product": "6845485e5363bcfead2186a1",
+      "_id": "68a80862333564e84c9f3007"
+    }
+  ],
+  "shippingAddress": {
+    "address": "street 3 california",
+    "city": "Cali",
+    "postalCode": "122247",
+    "country": "Usa"
+  },
+  "paymentMethod": "cash",
+  "totalPrice": 109,
+  "status": "Pending",
+  "isPaid": false,
+  "isDelivered": false,
+  "_id": "68a80862333564e84c9f3006",
+  "createdAt": "2025-08-22T06:04:18.381Z",
+  "updatedAt": "2025-08-22T06:04:18.381Z",
+  "__v": 0
+}

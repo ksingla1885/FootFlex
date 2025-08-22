@@ -1,0 +1,10 @@
+{
+  "name": "Admin",
+  "email": "admin@gmail.com",
+  "password": "$2a$10$MgsxUo9Yf7Z7kRy7Af7VS.DVIuv51Q7AVYx9EUr19xC15OeYeB4Nm",
+  "isAdmin": true,
+  "_id": "682b581efb2a83f7dd948806",
+  "createdAt": "2025-05-19T16:11:10.732Z",
+  "updatedAt": "2025-05-19T16:11:10.732Z",
+  "__v": 0
+}

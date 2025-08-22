@@ -1,0 +1,9 @@
+{
+  "name": "User",
+  "email": "user@example.com",
+  "password": "$2a$10$xjqcruMJ6J92biN.yZ67G.1xlMU/5u..f77PrsiLd5ifXAt.BRIkC",
+  "_id": "68a807e04cf47cf68484530a",
+  "createdAt": "2025-08-22T06:02:08.023Z",
+  "updatedAt": "2025-08-22T06:02:08.023Z",
+  "__v": 0
+}

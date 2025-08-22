@@ -1,0 +1,42 @@
+{
+  "admin": "6826c24d57ac22da945f7961",
+  "name": "Air Max",
+  "images": [
+    "/server/uploads\\images-1747370668993.png"
+  ],
+  "brand": "Nike",
+  "category": "Men",
+  "description": "Fly in air..",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 111.98,
+  "sizes": [
+    {
+      "size": "8",
+      "countInStock": 100,
+      "_id": "6826c2e377fdbed67716f253"
+    },
+    {
+      "size": "9",
+      "countInStock": 150,
+      "_id": "6826c2e377fdbed67716f254"
+    }
+  ],
+  "colors": [
+    {
+      "name": "Red",
+      "hex": "#000000",
+      "_id": "6826c2e377fdbed67716f255"
+    },
+    {
+      "name": "Black",
+      "hex": "#000000",
+      "_id": "6826c2e377fdbed67716f256"
+    }
+  ],
+  "_id": "6826c2e377fdbed67716f252",
+  "reviews": [],
+  "createdAt": "2025-05-16T04:45:23.971Z",
+  "updatedAt": "2025-05-16T04:45:23.971Z",
+  "__v": 0
+}

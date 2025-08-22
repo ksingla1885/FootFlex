@@ -1,0 +1,9 @@
+{
+  "name": "User",
+  "email": "user@gmail.com",
+  "password": "$2a$10$A2lhgpfF57Zgl1NcZ7hw5e.swYJegpFhGEvhjmgQqnBDBHAHnrnGu",
+  "_id": "6826d3b008d4f448201e3a9e",
+  "createdAt": "2025-05-16T05:57:04.572Z",
+  "updatedAt": "2025-05-16T05:57:04.572Z",
+  "__v": 0
+}

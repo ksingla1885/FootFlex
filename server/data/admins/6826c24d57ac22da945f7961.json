@@ -1,0 +1,10 @@
+{
+  "name": "ketan",
+  "email": "ketan@gmail.com",
+  "password": "$2a$10$S31Ov.sRem6Wst4D1IZQS.yUjbK9Mk02IDlDufgglZnSV3jxoEUPe",
+  "isAdmin": true,
+  "_id": "6826c24d57ac22da945f7961",
+  "createdAt": "2025-05-16T04:42:53.210Z",
+  "updatedAt": "2025-05-16T04:42:53.210Z",
+  "__v": 0
+}
