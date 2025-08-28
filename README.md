@@ -96,7 +96,7 @@ footflex/
 
 4. Create a `.env` file in the root directory with your MongoDB connection string:
    ```
-   MONGO_URI=mongodb+srv://ketansingla3246:GAYJWc9VKWhcqnKy@cluster0.u9cqyta.mongodb.net/footflex
+   MONGO_URI=mongodb+srv://<Username>:<Password>@cluster0.u9cqyta.mongodb.net/footflex
    JWT_SECRET=footflex123
    NODE_ENV=development
    PORT=5000
